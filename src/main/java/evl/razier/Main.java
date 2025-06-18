@@ -1,17 +1,22 @@
 package evl.razier;
 
-//TIP 要<b>运行</b>代码，请按 <shortcut actionId="Run"/> 或
-// 点击装订区域中的 <icon src="AllIcons.Actions.Execute"/> 图标。
-public class Main {
-    public static void main(String[] args) {
-        //TIP 当文本光标位于高亮显示的文本处时按 <shortcut actionId="ShowIntentionActions"/>
-        // 查看 IntelliJ IDEA 建议如何修正。
-        System.out.printf("Hello and welcome!");
+import evl.razier.Attribute.Attack;
+import evl.razier.Attribute.Defense;
+import evl.razier.EntityModel.HumanModel;
 
-        for (int i = 1; i <= 5; i++) {
-            //TIP 按 <shortcut actionId="Debug"/> 开始调试代码。我们已经设置了一个 <icon src="AllIcons.Debugger.Db_set_breakpoint"/> 断点
-            // 但您始终可以通过按 <shortcut actionId="ToggleLineBreakpoint"/> 添加更多断点。
-            System.out.println("i = " + i);
-        }
+import java.util.HashSet;
+import java.util.logging.Logger;
+
+public class Main {
+    public static final Logger LOGGER = Logger.getLogger(Main.class.getName());
+    public static void main(String[] args) {
+        LOGGER.info("We have not developed the output yet! Please wait!");
+        test();
+    }
+
+    public static void test(){
+        System.out.println("Test");
+        HumanModel humanModel = new HumanModel(1000,1000,new Attack(0,0,0,0,0,new HashSet<>()),new Defense(0,0,0),0,0,0,0,0,0,0,0);
+        humanModel.setAgility(100);
     }
 }

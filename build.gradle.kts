@@ -2,6 +2,10 @@ plugins {
     id("java")
 }
 
+tasks.withType<JavaCompile> {
+    options.encoding = "UTF-8"
+}
+
 group = "evl.razier"
 version = "1.0-SNAPSHOT"
 
@@ -17,3 +21,4 @@ dependencies {
 tasks.test {
     useJUnitPlatform()
 }
+
