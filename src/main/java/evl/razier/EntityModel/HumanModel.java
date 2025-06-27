@@ -11,17 +11,28 @@ import java.util.HashSet;
  * 能量，代谢能力（决定能量回复和生命恢复），精神力，敏捷度，战斗经验（伤害倍数与减免倍数）,战斗经验上限
  * */
 public class HumanModel extends EntityModel{
-    public HumanModel humanModel = new HumanModel(1000, 1000, new Attack(0, 0, 0, 0, 0, new HashSet<String>()), new Defense(0, 0,  0), 100, 100, 0, 0, 0, 0, 0, 0);
-    public HumanModel(float maxHealth, float health , Attack attack, Defense defense, float maxEnergy, float energy, float suitableTemperature, float metabolism, float mentalPower, float agility, float combatExperience, float combatExperienceLimit){
+    public HumanModel humanModel = new HumanModel(1000, 1000, new Attack(35, 0, 0, 0, 0, new HashSet<String>()), new Defense(0, 0,  0), 100, 100, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+    public HumanModel(float maxHealth, float health , Attack attack, Defense defense, float maxEnergy, float energy, float suitableTemperature, float metabolism, float mentalPower, float agility, float combatExperience, float combatExperienceLimit, float volume, float weight, float density, float specificHeatCapacity){
         this.maxHealth = maxHealth;
-        this.health = health;
+        this.health = health;   
         this.attack = attack;
         this.defense = defense;
         this.maxEnergy = maxEnergy;
         this.energy = energy;
-        this.suitableTemperature = suitableTemperature;
+        this.suitableTemperature.setMinTemperature(suitableTemperature);
+        this.suitableTemperature.setMaxTemperature(suitableTemperature);
         this.metabolism = metabolism;
         this.mentalPower = mentalPower;
         this.agility = agility;
+        this.combatExperience = combatExperience;
+        this.combatExperienceLimit = combatExperienceLimit;
+        this.volume = volume;
+        this.weight = weight;
+        this.density = density;
+        this.specificHeatCapacity = specificHeatCapacity;
+    }
+
+    class HumanSkills{
+        
     }
 }

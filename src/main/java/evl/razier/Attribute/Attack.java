@@ -12,16 +12,16 @@ import static evl.razier.Main.LOGGER;
 public class Attack {
 
     public float temperature ;//温度
-    public float force ;//力
+    public float maxForce;//力
     public float energy ;//能量
     public float frequency ;//频率
     public float contactArea ;//接触面积
     //伤害类型
     HashSet<String> damageType ;
 
-    public Attack(float temperature, float force, float energy, float frequency, float contactArea, HashSet<String> damageType){
+    public Attack(float temperature, float maxForce, float energy, float frequency, float contactArea, HashSet<String> damageType){
         this.temperature = temperature;
-        this.force = force;
+        this.maxForce = maxForce;
         this.energy = energy;
         this.frequency = frequency;
         this.contactArea = contactArea;
@@ -34,10 +34,10 @@ public class Attack {
         this.temperature = temperature;
     }
 
-    public void setForce(float force){
-        LOGGER.info("Original force :" + this.force);
-        LOGGER.info("Set force to :" + force);
-        this.force = force;
+    public void setMaxForce(float maxForce){
+        LOGGER.info("Original max force :" + this.maxForce);
+        LOGGER.info("Set max force to :" + maxForce);
+        this.maxForce = maxForce;
     }
 
     public void setEnergy(float energy){

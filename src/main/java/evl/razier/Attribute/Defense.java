@@ -1,7 +1,7 @@
 package evl.razier.Attribute;
 
 
-import static evl.razier.Main.LOGGER;
+import evl.razier.Main;
 
 /*
 * 属性系统：生命，攻击力（由温度，力，能量，频率【电磁波、机械波】，接触面积），
@@ -20,20 +20,20 @@ public class Defense {
     }
 
     public void setSurfaceHardness(float surfaceHardness){
-        LOGGER.info("Original surface hardness :" + this.surfaceHardness);
-        LOGGER.info("Set surface hardness to :" + surfaceHardness);
+        Main.log("Original surface hardness :" + this.surfaceHardness);
+        Main.log("Set surface hardness to :" + surfaceHardness);
         this.surfaceHardness = surfaceHardness;
     }
 
     public void setThickness(float thickness){
-        LOGGER.info("Original thickness :" + this.thickness);
-        LOGGER.info("Set thickness to :" + thickness);
+        Main.log("Original thickness :" + this.thickness);
+        Main.log("Set thickness to :" + thickness);
         this.thickness = thickness;
     }
 
     public void setToughness(float toughness){
-        LOGGER.info("Original toughness :" + this.toughness);
-        LOGGER.info("Set toughness to :" + toughness);
+        Main.log("Original toughness :" + this.toughness);
+        Main.log("Set toughness to :" + toughness);
         this.toughness = toughness;
     }
     
