@@ -1,0 +1,36 @@
+{
+  "type": "change",
+  "parts": "all",
+  "size": 6,
+  "change_type": [
+    "suitable_temperature",
+    "defense"
+  ],
+  "sequence": [
+    "ASN",
+    "CYS",
+    "ARG",
+    "HIS",
+    "THR",
+    "GLY"
+  ],
+  "values": {
+    "health": 0.0,
+    "attack": {
+      "temperature": 0.0,
+      "maxForce": 0.0,
+      "energy": 0.0,
+      "frequency": 0.0,
+      "contactArea": 0.0
+    },
+    "defense": {
+      "surfaceHardness": 43.679899999999996,
+      "thickness": 43.679899999999996,
+      "toughness": 43.679899999999996
+    },
+    "suitable_temperature": {
+      "MinTemperatureIncrease": 1.99381,
+      "MaxTemperatureIncrease": 1.99381
+    }
+  }
+}

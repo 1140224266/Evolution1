@@ -1,0 +1,36 @@
+{
+  "type": "change",
+  "parts": "all",
+  "size": 7,
+  "change_type": [
+    "suitable_temperature"
+  ],
+  "sequence": [
+    "ALA",
+    "THR",
+    "ILE",
+    "ARG",
+    "MET",
+    "ILE",
+    "ALA"
+  ],
+  "values": {
+    "health": 0.0,
+    "attack": {
+      "temperature": 0.0,
+      "maxForce": 0.0,
+      "energy": 0.0,
+      "frequency": 0.0,
+      "contactArea": 0.0
+    },
+    "defense": {
+      "surfaceHardness": 0.0,
+      "thickness": 0.0,
+      "toughness": 0.0
+    },
+    "suitable_temperature": {
+      "MinTemperatureIncrease": 5.450030000000001,
+      "MaxTemperatureIncrease": 5.450030000000001
+    }
+  }
+}

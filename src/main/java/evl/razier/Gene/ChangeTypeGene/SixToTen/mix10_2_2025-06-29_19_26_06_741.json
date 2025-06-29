@@ -1,0 +1,41 @@
+{
+  "type": "change",
+  "parts": "all",
+  "size": 10,
+  "change_type": [
+    "combat_experience",
+    "attack"
+  ],
+  "sequence": [
+    "ASN",
+    "CYS",
+    "LEU",
+    "ALA",
+    "VAL",
+    "PHE",
+    "TYR",
+    "CYS",
+    "ARG",
+    "LEU"
+  ],
+  "values": {
+    "health": 0.0,
+    "attack": {
+      "temperature": 97.4304,
+      "maxForce": 48.7152,
+      "energy": 48.7152,
+      "frequency": 4871.52,
+      "contactArea": 0.4871520000000001
+    },
+    "defense": {
+      "surfaceHardness": 0.0,
+      "thickness": 0.0,
+      "toughness": 0.0
+    },
+    "suitable_temperature": {
+      "MinTemperatureIncrease": 0.0,
+      "MaxTemperatureIncrease": 0.0
+    },
+    "combat_experience": 68.5086
+  }
+}

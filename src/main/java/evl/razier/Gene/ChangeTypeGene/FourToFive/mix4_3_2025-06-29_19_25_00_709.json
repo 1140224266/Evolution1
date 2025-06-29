@@ -1,0 +1,37 @@
+{
+  "type": "change",
+  "parts": "all",
+  "size": 4,
+  "change_type": [
+    "agility",
+    "health",
+    "mental_power"
+  ],
+  "sequence": [
+    "LYS",
+    "ALA",
+    "TYR",
+    "MET"
+  ],
+  "values": {
+    "health": 142.08,
+    "attack": {
+      "temperature": 0.0,
+      "maxForce": 0.0,
+      "energy": 0.0,
+      "frequency": 0.0,
+      "contactArea": 0.0
+    },
+    "defense": {
+      "surfaceHardness": 0.0,
+      "thickness": 0.0,
+      "toughness": 0.0
+    },
+    "suitable_temperature": {
+      "MinTemperatureIncrease": 0.0,
+      "MaxTemperatureIncrease": 0.0
+    },
+    "agility": 214.583,
+    "mental_power": 197.01500000000001
+  }
+}

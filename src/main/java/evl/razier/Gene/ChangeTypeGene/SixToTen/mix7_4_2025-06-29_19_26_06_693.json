@@ -1,0 +1,40 @@
+{
+  "type": "change",
+  "parts": "all",
+  "size": 7,
+  "change_type": [
+    "health",
+    "suitable_temperature",
+    "defense",
+    "agility"
+  ],
+  "sequence": [
+    "GLU",
+    "LEU",
+    "ALA",
+    "ASN",
+    "TRP",
+    "ASN",
+    "VAL"
+  ],
+  "values": {
+    "health": 1825.98,
+    "attack": {
+      "temperature": 0.0,
+      "maxForce": 0.0,
+      "energy": 0.0,
+      "frequency": 0.0,
+      "contactArea": 0.0
+    },
+    "defense": {
+      "surfaceHardness": 4.0648,
+      "thickness": 4.0648,
+      "toughness": 4.0648
+    },
+    "suitable_temperature": {
+      "MinTemperatureIncrease": 2.7528300000000003,
+      "MaxTemperatureIncrease": 2.7528300000000003
+    },
+    "agility": 69.436
+  }
+}

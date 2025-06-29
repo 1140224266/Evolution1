@@ -1,0 +1,33 @@
+{
+  "type": "change",
+  "parts": "all",
+  "size": 2,
+  "change_type": [
+    "defense",
+    "attack",
+    "health"
+  ],
+  "sequence": [
+    "ASN",
+    "ILE"
+  ],
+  "values": {
+    "health": 15.99,
+    "attack": {
+      "temperature": 0.1254,
+      "maxForce": 0.0627,
+      "energy": 0.0627,
+      "frequency": 6.2700000000000005,
+      "contactArea": 6.270000000000001E-4
+    },
+    "defense": {
+      "surfaceHardness": 15.1858,
+      "thickness": 15.1858,
+      "toughness": 15.1858
+    },
+    "suitable_temperature": {
+      "MinTemperatureIncrease": 0.0,
+      "MaxTemperatureIncrease": 0.0
+    }
+  }
+}

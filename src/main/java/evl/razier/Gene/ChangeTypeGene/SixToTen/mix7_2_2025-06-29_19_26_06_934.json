@@ -1,0 +1,38 @@
+{
+  "type": "change",
+  "parts": "all",
+  "size": 7,
+  "change_type": [
+    "metabolism",
+    "suitable_temperature"
+  ],
+  "sequence": [
+    "GLU",
+    "CYS",
+    "GLN",
+    "ALA",
+    "GLU",
+    "MET",
+    "TRP"
+  ],
+  "values": {
+    "health": 0.0,
+    "attack": {
+      "temperature": 0.0,
+      "maxForce": 0.0,
+      "energy": 0.0,
+      "frequency": 0.0,
+      "contactArea": 0.0
+    },
+    "defense": {
+      "surfaceHardness": 0.0,
+      "thickness": 0.0,
+      "toughness": 0.0
+    },
+    "suitable_temperature": {
+      "MinTemperatureIncrease": 5.95472,
+      "MaxTemperatureIncrease": 5.95472
+    },
+    "metabolism": 153.26500000000001
+  }
+}

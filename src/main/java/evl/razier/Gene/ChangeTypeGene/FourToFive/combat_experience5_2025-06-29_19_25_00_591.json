@@ -1,0 +1,35 @@
+{
+  "type": "change",
+  "parts": "all",
+  "size": 5,
+  "change_type": [
+    "combat_experience"
+  ],
+  "sequence": [
+    "TYR",
+    "LEU",
+    "ILE",
+    "TRP",
+    "GLU"
+  ],
+  "values": {
+    "health": 0.0,
+    "attack": {
+      "temperature": 0.0,
+      "maxForce": 0.0,
+      "energy": 0.0,
+      "frequency": 0.0,
+      "contactArea": 0.0
+    },
+    "defense": {
+      "surfaceHardness": 0.0,
+      "thickness": 0.0,
+      "toughness": 0.0
+    },
+    "suitable_temperature": {
+      "MinTemperatureIncrease": 0.0,
+      "MaxTemperatureIncrease": 0.0
+    },
+    "combat_experience": 4.579000000000001
+  }
+}

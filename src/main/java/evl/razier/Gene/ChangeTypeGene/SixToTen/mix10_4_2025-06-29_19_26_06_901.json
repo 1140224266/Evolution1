@@ -1,0 +1,43 @@
+{
+  "type": "change",
+  "parts": "all",
+  "size": 10,
+  "change_type": [
+    "attack",
+    "suitable_temperature",
+    "energy",
+    "health"
+  ],
+  "sequence": [
+    "GLY",
+    "ASP",
+    "GLN",
+    "GLN",
+    "TYR",
+    "LEU",
+    "ASP",
+    "ILE",
+    "LEU",
+    "ALA"
+  ],
+  "values": {
+    "health": 430.5,
+    "attack": {
+      "temperature": 141.2672,
+      "maxForce": 70.6336,
+      "energy": 70.6336,
+      "frequency": 7063.360000000001,
+      "contactArea": 0.7063360000000001
+    },
+    "defense": {
+      "surfaceHardness": 0.0,
+      "thickness": 0.0,
+      "toughness": 0.0
+    },
+    "suitable_temperature": {
+      "MinTemperatureIncrease": 1.4797200000000001,
+      "MaxTemperatureIncrease": 1.4797200000000001
+    },
+    "energy": 32.59
+  }
+}

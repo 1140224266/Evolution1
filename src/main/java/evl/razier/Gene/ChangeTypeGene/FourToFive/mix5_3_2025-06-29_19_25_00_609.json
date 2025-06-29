@@ -1,0 +1,38 @@
+{
+  "type": "change",
+  "parts": "all",
+  "size": 5,
+  "change_type": [
+    "defense",
+    "metabolism",
+    "combat_experience"
+  ],
+  "sequence": [
+    "GLU",
+    "GLU",
+    "GLU",
+    "ARG",
+    "ASN"
+  ],
+  "values": {
+    "health": 0.0,
+    "attack": {
+      "temperature": 0.0,
+      "maxForce": 0.0,
+      "energy": 0.0,
+      "frequency": 0.0,
+      "contactArea": 0.0
+    },
+    "defense": {
+      "surfaceHardness": 13.296800000000001,
+      "thickness": 13.296800000000001,
+      "toughness": 13.296800000000001
+    },
+    "suitable_temperature": {
+      "MinTemperatureIncrease": 0.0,
+      "MaxTemperatureIncrease": 0.0
+    },
+    "metabolism": 843.885,
+    "combat_experience": 7.4577
+  }
+}

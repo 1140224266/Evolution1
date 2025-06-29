@@ -1,0 +1,37 @@
+{
+  "type": "change",
+  "parts": "all",
+  "size": 4,
+  "change_type": [
+    "combat_experience",
+    "attack",
+    "agility"
+  ],
+  "sequence": [
+    "ARG",
+    "ARG",
+    "GLN",
+    "ASN"
+  ],
+  "values": {
+    "health": 0.0,
+    "attack": {
+      "temperature": 1.4670000000000003,
+      "maxForce": 0.7335000000000002,
+      "energy": 0.7335000000000002,
+      "frequency": 73.35000000000001,
+      "contactArea": 0.007335000000000001
+    },
+    "defense": {
+      "surfaceHardness": 0.0,
+      "thickness": 0.0,
+      "toughness": 0.0
+    },
+    "suitable_temperature": {
+      "MinTemperatureIncrease": 0.0,
+      "MaxTemperatureIncrease": 0.0
+    },
+    "combat_experience": 10.1348,
+    "agility": 14.026
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "type": "change",
+  "parts": "all",
+  "size": 6,
+  "change_type": [
+    "defense",
+    "suitable_temperature"
+  ],
+  "sequence": [
+    "CYS",
+    "CYS",
+    "LEU",
+    "GLU",
+    "ILE",
+    "ASN"
+  ],
+  "values": {
+    "health": 0.0,
+    "attack": {
+      "temperature": 0.0,
+      "maxForce": 0.0,
+      "energy": 0.0,
+      "frequency": 0.0,
+      "contactArea": 0.0
+    },
+    "defense": {
+      "surfaceHardness": 30.2663,
+      "thickness": 30.2663,
+      "toughness": 30.2663
+    },
+    "suitable_temperature": {
+      "MinTemperatureIncrease": 0.10293000000000001,
+      "MaxTemperatureIncrease": 0.10293000000000001
+    }
+  }
+}

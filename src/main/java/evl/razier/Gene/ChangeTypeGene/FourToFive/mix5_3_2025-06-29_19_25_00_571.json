@@ -1,0 +1,38 @@
+{
+  "type": "change",
+  "parts": "all",
+  "size": 5,
+  "change_type": [
+    "agility",
+    "energy",
+    "health"
+  ],
+  "sequence": [
+    "CYS",
+    "ASN",
+    "HIS",
+    "ALA",
+    "LYS"
+  ],
+  "values": {
+    "health": 743.32,
+    "attack": {
+      "temperature": 0.0,
+      "maxForce": 0.0,
+      "energy": 0.0,
+      "frequency": 0.0,
+      "contactArea": 0.0
+    },
+    "defense": {
+      "surfaceHardness": 0.0,
+      "thickness": 0.0,
+      "toughness": 0.0
+    },
+    "suitable_temperature": {
+      "MinTemperatureIncrease": 0.0,
+      "MaxTemperatureIncrease": 0.0
+    },
+    "agility": 229.067,
+    "energy": 1133.59
+  }
+}

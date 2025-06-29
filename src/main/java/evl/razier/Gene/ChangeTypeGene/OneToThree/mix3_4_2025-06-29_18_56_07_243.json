@@ -1,0 +1,38 @@
+{
+  "type": "change",
+  "parts": "all",
+  "size": 3,
+  "change_type": [
+    "metabolism",
+    "mental_power",
+    "attack",
+    "agility"
+  ],
+  "sequence": [
+    "SER",
+    "GLY",
+    "PRO"
+  ],
+  "values": {
+    "health": 0.0,
+    "attack": {
+      "temperature": 0.028000000000000004,
+      "maxForce": 0.014000000000000002,
+      "energy": 0.014000000000000002,
+      "frequency": 1.4000000000000001,
+      "contactArea": 1.4000000000000001E-4
+    },
+    "defense": {
+      "surfaceHardness": 0.0,
+      "thickness": 0.0,
+      "toughness": 0.0
+    },
+    "suitable_temperature": {
+      "MinTemperatureIncrease": 0.0,
+      "MaxTemperatureIncrease": 0.0
+    },
+    "metabolism": 244.07,
+    "mental_power": 89.77,
+    "agility": 0.34400000000000003
+  }
+}

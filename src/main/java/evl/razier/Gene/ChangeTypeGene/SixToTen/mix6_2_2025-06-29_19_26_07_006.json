@@ -1,0 +1,37 @@
+{
+  "type": "change",
+  "parts": "all",
+  "size": 6,
+  "change_type": [
+    "suitable_temperature",
+    "metabolism"
+  ],
+  "sequence": [
+    "SER",
+    "TRP",
+    "PRO",
+    "ASN",
+    "LYS",
+    "ILE"
+  ],
+  "values": {
+    "health": 0.0,
+    "attack": {
+      "temperature": 0.0,
+      "maxForce": 0.0,
+      "energy": 0.0,
+      "frequency": 0.0,
+      "contactArea": 0.0
+    },
+    "defense": {
+      "surfaceHardness": 0.0,
+      "thickness": 0.0,
+      "toughness": 0.0
+    },
+    "suitable_temperature": {
+      "MinTemperatureIncrease": 6.127190000000001,
+      "MaxTemperatureIncrease": 6.127190000000001
+    },
+    "metabolism": 279.975
+  }
+}

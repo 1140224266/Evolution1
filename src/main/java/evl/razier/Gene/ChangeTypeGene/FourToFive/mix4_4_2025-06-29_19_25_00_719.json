@@ -1,0 +1,38 @@
+{
+  "type": "change",
+  "parts": "all",
+  "size": 4,
+  "change_type": [
+    "suitable_temperature",
+    "combat_experience",
+    "defense",
+    "metabolism"
+  ],
+  "sequence": [
+    "GLN",
+    "TYR",
+    "ASN",
+    "ASN"
+  ],
+  "values": {
+    "health": 0.0,
+    "attack": {
+      "temperature": 0.0,
+      "maxForce": 0.0,
+      "energy": 0.0,
+      "frequency": 0.0,
+      "contactArea": 0.0
+    },
+    "defense": {
+      "surfaceHardness": 0.1881,
+      "thickness": 0.1881,
+      "toughness": 0.1881
+    },
+    "suitable_temperature": {
+      "MinTemperatureIncrease": 0.6893600000000001,
+      "MaxTemperatureIncrease": 0.6893600000000001
+    },
+    "combat_experience": 2.3972,
+    "metabolism": 49.18
+  }
+}

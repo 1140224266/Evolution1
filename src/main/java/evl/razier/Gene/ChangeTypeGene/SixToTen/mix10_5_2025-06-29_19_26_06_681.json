@@ -1,0 +1,45 @@
+{
+  "type": "change",
+  "parts": "all",
+  "size": 10,
+  "change_type": [
+    "energy",
+    "suitable_temperature",
+    "defense",
+    "metabolism",
+    "health"
+  ],
+  "sequence": [
+    "CYS",
+    "ASP",
+    "GLY",
+    "TYR",
+    "CYS",
+    "LEU",
+    "LYS",
+    "TYR",
+    "HIS",
+    "TYR"
+  ],
+  "values": {
+    "health": 28.88,
+    "attack": {
+      "temperature": 0.0,
+      "maxForce": 0.0,
+      "energy": 0.0,
+      "frequency": 0.0,
+      "contactArea": 0.0
+    },
+    "defense": {
+      "surfaceHardness": 0.0206,
+      "thickness": 0.0206,
+      "toughness": 0.0206
+    },
+    "suitable_temperature": {
+      "MinTemperatureIncrease": 0.0361,
+      "MaxTemperatureIncrease": 0.0361
+    },
+    "energy": 8865.25,
+    "metabolism": 24.96
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "type": "change",
+  "parts": "all",
+  "size": 9,
+  "change_type": [
+    "mental_power"
+  ],
+  "sequence": [
+    "VAL",
+    "PHE",
+    "LEU",
+    "LYS",
+    "ALA",
+    "GLU",
+    "LYS",
+    "ASN",
+    "PHE"
+  ],
+  "values": {
+    "health": 0.0,
+    "attack": {
+      "temperature": 0.0,
+      "maxForce": 0.0,
+      "energy": 0.0,
+      "frequency": 0.0,
+      "contactArea": 0.0
+    },
+    "defense": {
+      "surfaceHardness": 0.0,
+      "thickness": 0.0,
+      "toughness": 0.0
+    },
+    "suitable_temperature": {
+      "MinTemperatureIncrease": 0.0,
+      "MaxTemperatureIncrease": 0.0
+    },
+    "mental_power": 3254.32
+  }
+}

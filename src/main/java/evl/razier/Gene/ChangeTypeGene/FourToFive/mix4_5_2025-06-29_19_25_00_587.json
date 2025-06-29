@@ -1,0 +1,39 @@
+{
+  "type": "change",
+  "parts": "all",
+  "size": 4,
+  "change_type": [
+    "mental_power",
+    "health",
+    "suitable_temperature",
+    "agility",
+    "defense"
+  ],
+  "sequence": [
+    "SER",
+    "ASP",
+    "GLN",
+    "ARG"
+  ],
+  "values": {
+    "health": 104.32000000000001,
+    "attack": {
+      "temperature": 0.0,
+      "maxForce": 0.0,
+      "energy": 0.0,
+      "frequency": 0.0,
+      "contactArea": 0.0
+    },
+    "defense": {
+      "surfaceHardness": 0.3018,
+      "thickness": 0.3018,
+      "toughness": 0.3018
+    },
+    "suitable_temperature": {
+      "MinTemperatureIncrease": 0.005540000000000001,
+      "MaxTemperatureIncrease": 0.005540000000000001
+    },
+    "mental_power": 226.645,
+    "agility": 0.745
+  }
+}

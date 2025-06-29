@@ -1,0 +1,40 @@
+{
+  "type": "change",
+  "parts": "all",
+  "size": 5,
+  "change_type": [
+    "suitable_temperature",
+    "energy",
+    "metabolism",
+    "agility"
+  ],
+  "sequence": [
+    "LEU",
+    "MET",
+    "PHE",
+    "TYR",
+    "GLN"
+  ],
+  "values": {
+    "health": 0.0,
+    "attack": {
+      "temperature": 0.0,
+      "maxForce": 0.0,
+      "energy": 0.0,
+      "frequency": 0.0,
+      "contactArea": 0.0
+    },
+    "defense": {
+      "surfaceHardness": 0.0,
+      "thickness": 0.0,
+      "toughness": 0.0
+    },
+    "suitable_temperature": {
+      "MinTemperatureIncrease": 4.05903,
+      "MaxTemperatureIncrease": 4.05903
+    },
+    "energy": 1958.78,
+    "metabolism": 23.59,
+    "agility": 6.181
+  }
+}

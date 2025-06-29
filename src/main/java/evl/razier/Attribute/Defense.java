@@ -3,6 +3,8 @@ package evl.razier.Attribute;
 
 import evl.razier.Main;
 
+
+
 /*
 * 属性系统：生命，攻击力（由温度，力，能量，频率【电磁波、机械波】，接触面积），
 * 适宜温度、防御（表面硬度、厚度以及韧性【减免内伤】），

@@ -1,0 +1,39 @@
+{
+  "type": "change",
+  "parts": "all",
+  "size": 4,
+  "change_type": [
+    "attack",
+    "energy",
+    "suitable_temperature",
+    "mental_power",
+    "health"
+  ],
+  "sequence": [
+    "ALA",
+    "ASN",
+    "PRO",
+    "ASP"
+  ],
+  "values": {
+    "health": 79.22,
+    "attack": {
+      "temperature": 0.6188,
+      "maxForce": 0.3094,
+      "energy": 0.3094,
+      "frequency": 30.94,
+      "contactArea": 0.0030940000000000004
+    },
+    "defense": {
+      "surfaceHardness": 0.0,
+      "thickness": 0.0,
+      "toughness": 0.0
+    },
+    "suitable_temperature": {
+      "MinTemperatureIncrease": 0.3489,
+      "MaxTemperatureIncrease": 0.3489
+    },
+    "energy": 166.74,
+    "mental_power": 264.14
+  }
+}

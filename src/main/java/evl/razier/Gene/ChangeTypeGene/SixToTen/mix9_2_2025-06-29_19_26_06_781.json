@@ -1,0 +1,39 @@
+{
+  "type": "change",
+  "parts": "all",
+  "size": 9,
+  "change_type": [
+    "attack",
+    "health"
+  ],
+  "sequence": [
+    "ARG",
+    "LYS",
+    "PHE",
+    "HIS",
+    "LEU",
+    "LYS",
+    "LYS",
+    "PHE",
+    "MET"
+  ],
+  "values": {
+    "health": 4473.49,
+    "attack": {
+      "temperature": 127.0434,
+      "maxForce": 63.5217,
+      "energy": 63.5217,
+      "frequency": 6352.17,
+      "contactArea": 0.635217
+    },
+    "defense": {
+      "surfaceHardness": 0.0,
+      "thickness": 0.0,
+      "toughness": 0.0
+    },
+    "suitable_temperature": {
+      "MinTemperatureIncrease": 0.0,
+      "MaxTemperatureIncrease": 0.0
+    }
+  }
+}

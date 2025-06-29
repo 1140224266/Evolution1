@@ -1,0 +1,44 @@
+{
+  "type": "change",
+  "parts": "all",
+  "size": 6,
+  "change_type": [
+    "mental_power",
+    "metabolism",
+    "suitable_temperature",
+    "attack",
+    "combat_experience",
+    "health",
+    "defense"
+  ],
+  "sequence": [
+    "MET",
+    "GLY",
+    "ASN",
+    "HIS",
+    "CYS",
+    "GLY"
+  ],
+  "values": {
+    "health": 106.3,
+    "attack": {
+      "temperature": 3.3524000000000003,
+      "maxForce": 1.6762000000000001,
+      "energy": 1.6762000000000001,
+      "frequency": 167.62,
+      "contactArea": 0.016762000000000003
+    },
+    "defense": {
+      "surfaceHardness": 0.5326,
+      "thickness": 0.5326,
+      "toughness": 0.5326
+    },
+    "suitable_temperature": {
+      "MinTemperatureIncrease": 0.25529,
+      "MaxTemperatureIncrease": 0.25529
+    },
+    "mental_power": 1161.38,
+    "metabolism": 666.67,
+    "combat_experience": 0.5207
+  }
+}

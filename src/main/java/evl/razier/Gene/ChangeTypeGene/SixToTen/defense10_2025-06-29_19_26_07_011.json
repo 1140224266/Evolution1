@@ -1,0 +1,39 @@
+{
+  "type": "change",
+  "parts": "all",
+  "size": 10,
+  "change_type": [
+    "defense"
+  ],
+  "sequence": [
+    "PHE",
+    "GLY",
+    "LEU",
+    "TYR",
+    "PRO",
+    "ASP",
+    "ALA",
+    "GLU",
+    "VAL",
+    "LEU"
+  ],
+  "values": {
+    "health": 0.0,
+    "attack": {
+      "temperature": 0.0,
+      "maxForce": 0.0,
+      "energy": 0.0,
+      "frequency": 0.0,
+      "contactArea": 0.0
+    },
+    "defense": {
+      "surfaceHardness": 7.801200000000001,
+      "thickness": 7.801200000000001,
+      "toughness": 7.801200000000001
+    },
+    "suitable_temperature": {
+      "MinTemperatureIncrease": 0.0,
+      "MaxTemperatureIncrease": 0.0
+    }
+  }
+}

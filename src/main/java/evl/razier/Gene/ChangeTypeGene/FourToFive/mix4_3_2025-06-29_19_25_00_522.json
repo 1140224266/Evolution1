@@ -1,0 +1,36 @@
+{
+  "type": "change",
+  "parts": "all",
+  "size": 4,
+  "change_type": [
+    "defense",
+    "attack",
+    "combat_experience"
+  ],
+  "sequence": [
+    "TRP",
+    "PRO",
+    "GLU",
+    "TRP"
+  ],
+  "values": {
+    "health": 0.0,
+    "attack": {
+      "temperature": 7.8722,
+      "maxForce": 3.9361,
+      "energy": 3.9361,
+      "frequency": 393.61,
+      "contactArea": 0.039361
+    },
+    "defense": {
+      "surfaceHardness": 5.0387,
+      "thickness": 5.0387,
+      "toughness": 5.0387
+    },
+    "suitable_temperature": {
+      "MinTemperatureIncrease": 0.0,
+      "MaxTemperatureIncrease": 0.0
+    },
+    "combat_experience": 6.721900000000001
+  }
+}

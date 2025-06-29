@@ -1,0 +1,34 @@
+{
+  "summonFileDir": "src/main/java/temp/sequenceSumon/summonFile",
+  "bonusCalculation": {
+    "baseMultiplier": 100,
+    "randomMultiplier": 123456
+  },
+  "priorities": {
+    "health": 0.01,
+    "attack": 0.01,
+    "defense": 0.01,
+    "energy": 0.01,
+    "metabolism": 0.005,
+    "mental_power": 0.005,
+    "agility": 0.001,
+    "combat_experience": 0.0001,
+    "suitable_temperature": 0.001
+  },
+  "attackPriorities": {
+    "temperature": 0.02,
+    "maxForce": 0.01,
+    "energy": 0.01,
+    "frequency": 1.0,
+    "contactArea": 0.0001
+  },
+  "defensePriorities": {
+    "surfaceHardness": 0.01,
+    "thickness": 0.01,
+    "toughness": 0.01
+  },
+  "suitableTemperaturePriorities": {
+    "MinTemperatureIncrease": 0.01,
+    "MaxTemperatureIncrease": 0.01
+  }
+} 

@@ -1,0 +1,39 @@
+{
+  "type": "change",
+  "parts": "all",
+  "size": 10,
+  "change_type": [
+    "health"
+  ],
+  "sequence": [
+    "GLN",
+    "PHE",
+    "LYS",
+    "GLY",
+    "TRP",
+    "ASN",
+    "TYR",
+    "PRO",
+    "CYS",
+    "PRO"
+  ],
+  "values": {
+    "health": 2057.1,
+    "attack": {
+      "temperature": 0.0,
+      "maxForce": 0.0,
+      "energy": 0.0,
+      "frequency": 0.0,
+      "contactArea": 0.0
+    },
+    "defense": {
+      "surfaceHardness": 0.0,
+      "thickness": 0.0,
+      "toughness": 0.0
+    },
+    "suitable_temperature": {
+      "MinTemperatureIncrease": 0.0,
+      "MaxTemperatureIncrease": 0.0
+    }
+  }
+}

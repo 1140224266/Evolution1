@@ -1,0 +1,46 @@
+{
+  "type": "change",
+  "parts": "all",
+  "size": 9,
+  "change_type": [
+    "attack",
+    "metabolism",
+    "health",
+    "defense",
+    "agility",
+    "mental_power"
+  ],
+  "sequence": [
+    "GLN",
+    "THR",
+    "ALA",
+    "MET",
+    "VAL",
+    "ASN",
+    "PRO",
+    "GLU",
+    "VAL"
+  ],
+  "values": {
+    "health": 64.93,
+    "attack": {
+      "temperature": 161.58220000000003,
+      "maxForce": 80.79110000000001,
+      "energy": 80.79110000000001,
+      "frequency": 8079.110000000001,
+      "contactArea": 0.807911
+    },
+    "defense": {
+      "surfaceHardness": 0.38180000000000003,
+      "thickness": 0.38180000000000003,
+      "toughness": 0.38180000000000003
+    },
+    "suitable_temperature": {
+      "MinTemperatureIncrease": 0.0,
+      "MaxTemperatureIncrease": 0.0
+    },
+    "metabolism": 67.32000000000001,
+    "agility": 0.435,
+    "mental_power": 2.24
+  }
+}

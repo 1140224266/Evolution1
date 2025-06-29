@@ -1,0 +1,32 @@
+{
+  "type": "change",
+  "parts": "all",
+  "size": 1,
+  "change_type": [
+    "mental_power",
+    "health"
+  ],
+  "sequence": [
+    "ARG"
+  ],
+  "values": {
+    "health": 676.86,
+    "attack": {
+      "temperature": 0.0,
+      "maxForce": 0.0,
+      "energy": 0.0,
+      "frequency": 0.0,
+      "contactArea": 0.0
+    },
+    "defense": {
+      "surfaceHardness": 0.0,
+      "thickness": 0.0,
+      "toughness": 0.0
+    },
+    "suitable_temperature": {
+      "MinTemperatureIncrease": 0.0,
+      "MaxTemperatureIncrease": 0.0
+    },
+    "mental_power": 112.215
+  }
+}

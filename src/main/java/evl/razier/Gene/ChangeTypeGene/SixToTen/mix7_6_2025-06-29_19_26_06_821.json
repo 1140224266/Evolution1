@@ -1,0 +1,46 @@
+{
+  "type": "change",
+  "parts": "all",
+  "size": 7,
+  "change_type": [
+    "energy",
+    "attack",
+    "agility",
+    "mental_power",
+    "combat_experience",
+    "metabolism"
+  ],
+  "sequence": [
+    "VAL",
+    "ILE",
+    "ASP",
+    "LEU",
+    "TYR",
+    "MET",
+    "ALA"
+  ],
+  "values": {
+    "health": 0.0,
+    "attack": {
+      "temperature": 30.9552,
+      "maxForce": 15.4776,
+      "energy": 15.4776,
+      "frequency": 1547.76,
+      "contactArea": 0.154776
+    },
+    "defense": {
+      "surfaceHardness": 0.0,
+      "thickness": 0.0,
+      "toughness": 0.0
+    },
+    "suitable_temperature": {
+      "MinTemperatureIncrease": 0.0,
+      "MaxTemperatureIncrease": 0.0
+    },
+    "energy": 4101.14,
+    "agility": 76.371,
+    "mental_power": 370.845,
+    "combat_experience": 0.9622,
+    "metabolism": 99.78
+  }
+}

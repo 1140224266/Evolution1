@@ -1,0 +1,40 @@
+{
+  "type": "change",
+  "parts": "all",
+  "size": 6,
+  "change_type": [
+    "combat_experience",
+    "suitable_temperature",
+    "metabolism",
+    "health"
+  ],
+  "sequence": [
+    "LEU",
+    "THR",
+    "LEU",
+    "GLY",
+    "TRP",
+    "CYS"
+  ],
+  "values": {
+    "health": 231.27,
+    "attack": {
+      "temperature": 0.0,
+      "maxForce": 0.0,
+      "energy": 0.0,
+      "frequency": 0.0,
+      "contactArea": 0.0
+    },
+    "defense": {
+      "surfaceHardness": 0.0,
+      "thickness": 0.0,
+      "toughness": 0.0
+    },
+    "suitable_temperature": {
+      "MinTemperatureIncrease": 0.0475,
+      "MaxTemperatureIncrease": 0.0475
+    },
+    "combat_experience": 9.902800000000001,
+    "metabolism": 70.79
+  }
+}

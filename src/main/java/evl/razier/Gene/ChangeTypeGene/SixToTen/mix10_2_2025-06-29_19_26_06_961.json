@@ -1,0 +1,42 @@
+{
+  "type": "change",
+  "parts": "all",
+  "size": 10,
+  "change_type": [
+    "combat_experience",
+    "metabolism"
+  ],
+  "sequence": [
+    "MET",
+    "ALA",
+    "PRO",
+    "HIS",
+    "ASP",
+    "VAL",
+    "TYR",
+    "SER",
+    "PRO",
+    "ASN"
+  ],
+  "values": {
+    "health": 0.0,
+    "attack": {
+      "temperature": 0.0,
+      "maxForce": 0.0,
+      "energy": 0.0,
+      "frequency": 0.0,
+      "contactArea": 0.0
+    },
+    "defense": {
+      "surfaceHardness": 0.0,
+      "thickness": 0.0,
+      "toughness": 0.0
+    },
+    "suitable_temperature": {
+      "MinTemperatureIncrease": 0.0,
+      "MaxTemperatureIncrease": 0.0
+    },
+    "combat_experience": 2.8607,
+    "metabolism": 72.68
+  }
+}

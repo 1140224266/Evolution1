@@ -1,0 +1,39 @@
+{
+  "type": "change",
+  "parts": "all",
+  "size": 8,
+  "change_type": [
+    "defense",
+    "metabolism"
+  ],
+  "sequence": [
+    "PRO",
+    "GLU",
+    "HIS",
+    "THR",
+    "VAL",
+    "LYS",
+    "ASN",
+    "ARG"
+  ],
+  "values": {
+    "health": 0.0,
+    "attack": {
+      "temperature": 0.0,
+      "maxForce": 0.0,
+      "energy": 0.0,
+      "frequency": 0.0,
+      "contactArea": 0.0
+    },
+    "defense": {
+      "surfaceHardness": 42.8095,
+      "thickness": 42.8095,
+      "toughness": 42.8095
+    },
+    "suitable_temperature": {
+      "MinTemperatureIncrease": 0.0,
+      "MaxTemperatureIncrease": 0.0
+    },
+    "metabolism": 2005.425
+  }
+}

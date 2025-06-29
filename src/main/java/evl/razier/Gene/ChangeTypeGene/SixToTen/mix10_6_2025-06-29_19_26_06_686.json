@@ -1,0 +1,46 @@
+{
+  "type": "change",
+  "parts": "all",
+  "size": 10,
+  "change_type": [
+    "agility",
+    "attack",
+    "energy",
+    "health",
+    "suitable_temperature",
+    "defense"
+  ],
+  "sequence": [
+    "GLY",
+    "GLN",
+    "LYS",
+    "MET",
+    "TYR",
+    "VAL",
+    "PHE",
+    "MET",
+    "CYS",
+    "ARG"
+  ],
+  "values": {
+    "health": 1778.73,
+    "attack": {
+      "temperature": 0.35100000000000003,
+      "maxForce": 0.17550000000000002,
+      "energy": 0.17550000000000002,
+      "frequency": 17.55,
+      "contactArea": 0.001755
+    },
+    "defense": {
+      "surfaceHardness": 4.8307,
+      "thickness": 4.8307,
+      "toughness": 4.8307
+    },
+    "suitable_temperature": {
+      "MinTemperatureIncrease": 0.9261100000000001,
+      "MaxTemperatureIncrease": 0.9261100000000001
+    },
+    "agility": 46.9,
+    "energy": 1353.1100000000001
+  }
+}

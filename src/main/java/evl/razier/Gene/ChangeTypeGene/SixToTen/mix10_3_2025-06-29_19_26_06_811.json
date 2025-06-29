@@ -1,0 +1,43 @@
+{
+  "type": "change",
+  "parts": "all",
+  "size": 10,
+  "change_type": [
+    "combat_experience",
+    "suitable_temperature",
+    "agility"
+  ],
+  "sequence": [
+    "TRP",
+    "PHE",
+    "GLU",
+    "HIS",
+    "LEU",
+    "TYR",
+    "TYR",
+    "PRO",
+    "SER",
+    "ALA"
+  ],
+  "values": {
+    "health": 0.0,
+    "attack": {
+      "temperature": 0.0,
+      "maxForce": 0.0,
+      "energy": 0.0,
+      "frequency": 0.0,
+      "contactArea": 0.0
+    },
+    "defense": {
+      "surfaceHardness": 0.0,
+      "thickness": 0.0,
+      "toughness": 0.0
+    },
+    "suitable_temperature": {
+      "MinTemperatureIncrease": 1.29322,
+      "MaxTemperatureIncrease": 1.29322
+    },
+    "combat_experience": 39.6531,
+    "agility": 42.18
+  }
+}

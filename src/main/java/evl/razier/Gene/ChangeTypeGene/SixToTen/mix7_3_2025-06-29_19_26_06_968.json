@@ -1,0 +1,39 @@
+{
+  "type": "change",
+  "parts": "all",
+  "size": 7,
+  "change_type": [
+    "metabolism",
+    "defense",
+    "attack"
+  ],
+  "sequence": [
+    "TRP",
+    "GLU",
+    "ASN",
+    "ARG",
+    "ASP",
+    "PRO",
+    "TYR"
+  ],
+  "values": {
+    "health": 0.0,
+    "attack": {
+      "temperature": 52.2708,
+      "maxForce": 26.1354,
+      "energy": 26.1354,
+      "frequency": 2613.54,
+      "contactArea": 0.26135400000000003
+    },
+    "defense": {
+      "surfaceHardness": 1.6873,
+      "thickness": 1.6873,
+      "toughness": 1.6873
+    },
+    "suitable_temperature": {
+      "MinTemperatureIncrease": 0.0,
+      "MaxTemperatureIncrease": 0.0
+    },
+    "metabolism": 1340.715
+  }
+}

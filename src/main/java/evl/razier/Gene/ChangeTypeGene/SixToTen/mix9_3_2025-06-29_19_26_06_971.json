@@ -1,0 +1,40 @@
+{
+  "type": "change",
+  "parts": "all",
+  "size": 9,
+  "change_type": [
+    "health",
+    "suitable_temperature",
+    "attack"
+  ],
+  "sequence": [
+    "THR",
+    "MET",
+    "GLY",
+    "ILE",
+    "THR",
+    "GLU",
+    "THR",
+    "ASN",
+    "ASP"
+  ],
+  "values": {
+    "health": 5952.41,
+    "attack": {
+      "temperature": 9.0486,
+      "maxForce": 4.5243,
+      "energy": 4.5243,
+      "frequency": 452.43,
+      "contactArea": 0.045243000000000005
+    },
+    "defense": {
+      "surfaceHardness": 0.0,
+      "thickness": 0.0,
+      "toughness": 0.0
+    },
+    "suitable_temperature": {
+      "MinTemperatureIncrease": 1.47905,
+      "MaxTemperatureIncrease": 1.47905
+    }
+  }
+}

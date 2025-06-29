@@ -1,0 +1,42 @@
+{
+  "type": "change",
+  "parts": "all",
+  "size": 8,
+  "change_type": [
+    "metabolism",
+    "combat_experience",
+    "energy"
+  ],
+  "sequence": [
+    "ILE",
+    "ALA",
+    "ILE",
+    "TYR",
+    "ILE",
+    "LEU",
+    "ILE",
+    "ARG"
+  ],
+  "values": {
+    "health": 0.0,
+    "attack": {
+      "temperature": 0.0,
+      "maxForce": 0.0,
+      "energy": 0.0,
+      "frequency": 0.0,
+      "contactArea": 0.0
+    },
+    "defense": {
+      "surfaceHardness": 0.0,
+      "thickness": 0.0,
+      "toughness": 0.0
+    },
+    "suitable_temperature": {
+      "MinTemperatureIncrease": 0.0,
+      "MaxTemperatureIncrease": 0.0
+    },
+    "metabolism": 598.605,
+    "combat_experience": 19.6232,
+    "energy": 540.14
+  }
+}

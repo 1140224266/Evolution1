@@ -1,0 +1,35 @@
+{
+  "type": "change",
+  "parts": "all",
+  "size": 6,
+  "change_type": [
+    "defense"
+  ],
+  "sequence": [
+    "THR",
+    "ARG",
+    "PHE",
+    "ILE",
+    "LEU",
+    "PRO"
+  ],
+  "values": {
+    "health": 0.0,
+    "attack": {
+      "temperature": 0.0,
+      "maxForce": 0.0,
+      "energy": 0.0,
+      "frequency": 0.0,
+      "contactArea": 0.0
+    },
+    "defense": {
+      "surfaceHardness": 38.5686,
+      "thickness": 38.5686,
+      "toughness": 38.5686
+    },
+    "suitable_temperature": {
+      "MinTemperatureIncrease": 0.0,
+      "MaxTemperatureIncrease": 0.0
+    }
+  }
+}

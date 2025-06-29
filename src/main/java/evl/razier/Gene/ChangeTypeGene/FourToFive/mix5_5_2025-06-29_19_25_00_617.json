@@ -1,0 +1,39 @@
+{
+  "type": "change",
+  "parts": "all",
+  "size": 5,
+  "change_type": [
+    "suitable_temperature",
+    "attack",
+    "health",
+    "defense",
+    "combat_experience"
+  ],
+  "sequence": [
+    "TRP",
+    "ALA",
+    "PRO",
+    "VAL",
+    "GLY"
+  ],
+  "values": {
+    "health": 0.73,
+    "attack": {
+      "temperature": 0.1264,
+      "maxForce": 0.0632,
+      "energy": 0.0632,
+      "frequency": 6.32,
+      "contactArea": 6.320000000000001E-4
+    },
+    "defense": {
+      "surfaceHardness": 6.0E-4,
+      "thickness": 6.0E-4,
+      "toughness": 6.0E-4
+    },
+    "suitable_temperature": {
+      "MinTemperatureIncrease": 0.02366,
+      "MaxTemperatureIncrease": 0.02366
+    },
+    "combat_experience": 0.0013000000000000002
+  }
+}

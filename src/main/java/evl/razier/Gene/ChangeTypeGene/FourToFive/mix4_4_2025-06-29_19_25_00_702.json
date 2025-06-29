@@ -1,0 +1,39 @@
+{
+  "type": "change",
+  "parts": "all",
+  "size": 4,
+  "change_type": [
+    "defense",
+    "metabolism",
+    "energy",
+    "mental_power"
+  ],
+  "sequence": [
+    "LEU",
+    "TRP",
+    "SER",
+    "MET"
+  ],
+  "values": {
+    "health": 0.0,
+    "attack": {
+      "temperature": 0.0,
+      "maxForce": 0.0,
+      "energy": 0.0,
+      "frequency": 0.0,
+      "contactArea": 0.0
+    },
+    "defense": {
+      "surfaceHardness": 3.7991,
+      "thickness": 3.7991,
+      "toughness": 3.7991
+    },
+    "suitable_temperature": {
+      "MinTemperatureIncrease": 0.0,
+      "MaxTemperatureIncrease": 0.0
+    },
+    "metabolism": 1708.025,
+    "energy": 31.88,
+    "mental_power": 75.72
+  }
+}

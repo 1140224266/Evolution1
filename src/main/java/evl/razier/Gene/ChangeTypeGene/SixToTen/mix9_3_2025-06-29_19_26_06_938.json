@@ -1,0 +1,41 @@
+{
+  "type": "change",
+  "parts": "all",
+  "size": 9,
+  "change_type": [
+    "defense",
+    "health",
+    "mental_power"
+  ],
+  "sequence": [
+    "GLU",
+    "SER",
+    "ALA",
+    "MET",
+    "MET",
+    "GLN",
+    "PHE",
+    "GLY",
+    "GLU"
+  ],
+  "values": {
+    "health": 4179.6,
+    "attack": {
+      "temperature": 0.0,
+      "maxForce": 0.0,
+      "energy": 0.0,
+      "frequency": 0.0,
+      "contactArea": 0.0
+    },
+    "defense": {
+      "surfaceHardness": 36.2811,
+      "thickness": 36.2811,
+      "toughness": 36.2811
+    },
+    "suitable_temperature": {
+      "MinTemperatureIncrease": 0.0,
+      "MaxTemperatureIncrease": 0.0
+    },
+    "mental_power": 1075.185
+  }
+}

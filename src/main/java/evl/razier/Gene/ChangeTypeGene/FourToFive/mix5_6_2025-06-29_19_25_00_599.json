@@ -1,0 +1,42 @@
+{
+  "type": "change",
+  "parts": "all",
+  "size": 5,
+  "change_type": [
+    "attack",
+    "energy",
+    "combat_experience",
+    "health",
+    "suitable_temperature",
+    "mental_power"
+  ],
+  "sequence": [
+    "ARG",
+    "LYS",
+    "GLY",
+    "HIS",
+    "TYR"
+  ],
+  "values": {
+    "health": 520.37,
+    "attack": {
+      "temperature": 0.9590000000000001,
+      "maxForce": 0.47950000000000004,
+      "energy": 0.47950000000000004,
+      "frequency": 47.95,
+      "contactArea": 0.004795000000000001
+    },
+    "defense": {
+      "surfaceHardness": 0.0,
+      "thickness": 0.0,
+      "toughness": 0.0
+    },
+    "suitable_temperature": {
+      "MinTemperatureIncrease": 0.31363,
+      "MaxTemperatureIncrease": 0.31363
+    },
+    "energy": 184.72,
+    "combat_experience": 0.5957,
+    "mental_power": 4.13
+  }
+}

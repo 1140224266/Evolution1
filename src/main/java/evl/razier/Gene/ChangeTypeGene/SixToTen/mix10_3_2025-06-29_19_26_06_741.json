@@ -1,0 +1,42 @@
+{
+  "type": "change",
+  "parts": "all",
+  "size": 10,
+  "change_type": [
+    "attack",
+    "agility",
+    "suitable_temperature"
+  ],
+  "sequence": [
+    "HIS",
+    "PRO",
+    "ASP",
+    "TRP",
+    "HIS",
+    "ILE",
+    "PHE",
+    "LYS",
+    "ALA",
+    "GLU"
+  ],
+  "values": {
+    "health": 0.0,
+    "attack": {
+      "temperature": 40.139,
+      "maxForce": 20.0695,
+      "energy": 20.0695,
+      "frequency": 2006.95,
+      "contactArea": 0.200695
+    },
+    "defense": {
+      "surfaceHardness": 0.0,
+      "thickness": 0.0,
+      "toughness": 0.0
+    },
+    "suitable_temperature": {
+      "MinTemperatureIncrease": 4.34907,
+      "MaxTemperatureIncrease": 4.34907
+    },
+    "agility": 369.435
+  }
+}

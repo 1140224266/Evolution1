@@ -1,0 +1,36 @@
+{
+  "type": "change",
+  "parts": "all",
+  "size": 6,
+  "change_type": [
+    "defense",
+    "health"
+  ],
+  "sequence": [
+    "TRP",
+    "ILE",
+    "GLN",
+    "GLN",
+    "LYS",
+    "GLN"
+  ],
+  "values": {
+    "health": 1888.8400000000001,
+    "attack": {
+      "temperature": 0.0,
+      "maxForce": 0.0,
+      "energy": 0.0,
+      "frequency": 0.0,
+      "contactArea": 0.0
+    },
+    "defense": {
+      "surfaceHardness": 54.3487,
+      "thickness": 54.3487,
+      "toughness": 54.3487
+    },
+    "suitable_temperature": {
+      "MinTemperatureIncrease": 0.0,
+      "MaxTemperatureIncrease": 0.0
+    }
+  }
+}

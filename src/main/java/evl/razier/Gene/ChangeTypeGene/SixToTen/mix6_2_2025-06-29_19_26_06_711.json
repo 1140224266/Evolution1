@@ -1,0 +1,37 @@
+{
+  "type": "change",
+  "parts": "all",
+  "size": 6,
+  "change_type": [
+    "energy",
+    "attack"
+  ],
+  "sequence": [
+    "ILE",
+    "PRO",
+    "LYS",
+    "VAL",
+    "TRP",
+    "PRO"
+  ],
+  "values": {
+    "health": 0.0,
+    "attack": {
+      "temperature": 17.1034,
+      "maxForce": 8.5517,
+      "energy": 8.5517,
+      "frequency": 855.1700000000001,
+      "contactArea": 0.08551700000000001
+    },
+    "defense": {
+      "surfaceHardness": 0.0,
+      "thickness": 0.0,
+      "toughness": 0.0
+    },
+    "suitable_temperature": {
+      "MinTemperatureIncrease": 0.0,
+      "MaxTemperatureIncrease": 0.0
+    },
+    "energy": 2101.4900000000002
+  }
+}

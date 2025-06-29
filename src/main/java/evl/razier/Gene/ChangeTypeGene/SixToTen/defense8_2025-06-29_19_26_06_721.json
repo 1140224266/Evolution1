@@ -1,0 +1,37 @@
+{
+  "type": "change",
+  "parts": "all",
+  "size": 8,
+  "change_type": [
+    "defense"
+  ],
+  "sequence": [
+    "ASP",
+    "TRP",
+    "GLY",
+    "LYS",
+    "SER",
+    "PHE",
+    "TRP",
+    "ASN"
+  ],
+  "values": {
+    "health": 0.0,
+    "attack": {
+      "temperature": 0.0,
+      "maxForce": 0.0,
+      "energy": 0.0,
+      "frequency": 0.0,
+      "contactArea": 0.0
+    },
+    "defense": {
+      "surfaceHardness": 71.4886,
+      "thickness": 71.4886,
+      "toughness": 71.4886
+    },
+    "suitable_temperature": {
+      "MinTemperatureIncrease": 0.0,
+      "MaxTemperatureIncrease": 0.0
+    }
+  }
+}

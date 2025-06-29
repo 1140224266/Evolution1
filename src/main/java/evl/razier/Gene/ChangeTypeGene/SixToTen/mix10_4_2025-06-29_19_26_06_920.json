@@ -1,0 +1,44 @@
+{
+  "type": "change",
+  "parts": "all",
+  "size": 10,
+  "change_type": [
+    "agility",
+    "combat_experience",
+    "health",
+    "defense"
+  ],
+  "sequence": [
+    "TRP",
+    "ASN",
+    "GLU",
+    "VAL",
+    "TRP",
+    "TYR",
+    "VAL",
+    "LEU",
+    "VAL",
+    "PHE"
+  ],
+  "values": {
+    "health": 691.58,
+    "attack": {
+      "temperature": 0.0,
+      "maxForce": 0.0,
+      "energy": 0.0,
+      "frequency": 0.0,
+      "contactArea": 0.0
+    },
+    "defense": {
+      "surfaceHardness": 10.5954,
+      "thickness": 10.5954,
+      "toughness": 10.5954
+    },
+    "suitable_temperature": {
+      "MinTemperatureIncrease": 0.0,
+      "MaxTemperatureIncrease": 0.0
+    },
+    "agility": 189.143,
+    "combat_experience": 52.697
+  }
+}

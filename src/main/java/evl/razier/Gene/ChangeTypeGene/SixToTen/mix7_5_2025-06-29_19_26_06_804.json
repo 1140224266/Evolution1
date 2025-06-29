@@ -1,0 +1,43 @@
+{
+  "type": "change",
+  "parts": "all",
+  "size": 7,
+  "change_type": [
+    "attack",
+    "mental_power",
+    "combat_experience",
+    "metabolism",
+    "health"
+  ],
+  "sequence": [
+    "ILE",
+    "GLU",
+    "TRP",
+    "HIS",
+    "LYS",
+    "LEU",
+    "LYS"
+  ],
+  "values": {
+    "health": 145.72,
+    "attack": {
+      "temperature": 28.0134,
+      "maxForce": 14.0067,
+      "energy": 14.0067,
+      "frequency": 1400.67,
+      "contactArea": 0.14006700000000002
+    },
+    "defense": {
+      "surfaceHardness": 0.0,
+      "thickness": 0.0,
+      "toughness": 0.0
+    },
+    "suitable_temperature": {
+      "MinTemperatureIncrease": 0.0,
+      "MaxTemperatureIncrease": 0.0
+    },
+    "mental_power": 155.09,
+    "combat_experience": 0.10690000000000001,
+    "metabolism": 24.05
+  }
+}

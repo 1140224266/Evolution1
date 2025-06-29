@@ -1,0 +1,46 @@
+{
+  "type": "change",
+  "parts": "all",
+  "size": 10,
+  "change_type": [
+    "mental_power",
+    "defense",
+    "energy",
+    "agility",
+    "attack"
+  ],
+  "sequence": [
+    "TRP",
+    "PHE",
+    "ASP",
+    "ALA",
+    "ILE",
+    "ASP",
+    "SER",
+    "ILE",
+    "TYR",
+    "LEU"
+  ],
+  "values": {
+    "health": 0.0,
+    "attack": {
+      "temperature": 0.1442,
+      "maxForce": 0.0721,
+      "energy": 0.0721,
+      "frequency": 7.21,
+      "contactArea": 7.210000000000001E-4
+    },
+    "defense": {
+      "surfaceHardness": 0.49060000000000004,
+      "thickness": 0.49060000000000004,
+      "toughness": 0.49060000000000004
+    },
+    "suitable_temperature": {
+      "MinTemperatureIncrease": 0.0,
+      "MaxTemperatureIncrease": 0.0
+    },
+    "mental_power": 4458.095,
+    "energy": 14.870000000000001,
+    "agility": 0.301
+  }
+}

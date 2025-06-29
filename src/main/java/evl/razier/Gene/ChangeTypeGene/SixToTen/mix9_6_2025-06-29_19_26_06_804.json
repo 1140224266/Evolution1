@@ -1,0 +1,46 @@
+{
+  "type": "change",
+  "parts": "all",
+  "size": 9,
+  "change_type": [
+    "defense",
+    "attack",
+    "health",
+    "energy",
+    "metabolism",
+    "mental_power"
+  ],
+  "sequence": [
+    "MET",
+    "ILE",
+    "MET",
+    "VAL",
+    "ILE",
+    "GLY",
+    "PHE",
+    "MET",
+    "ALA"
+  ],
+  "values": {
+    "health": 74.45,
+    "attack": {
+      "temperature": 115.3548,
+      "maxForce": 57.6774,
+      "energy": 57.6774,
+      "frequency": 5767.74,
+      "contactArea": 0.576774
+    },
+    "defense": {
+      "surfaceHardness": 44.7688,
+      "thickness": 44.7688,
+      "toughness": 44.7688
+    },
+    "suitable_temperature": {
+      "MinTemperatureIncrease": 0.0,
+      "MaxTemperatureIncrease": 0.0
+    },
+    "energy": 21.57,
+    "metabolism": 13.38,
+    "mental_power": 3.395
+  }
+}

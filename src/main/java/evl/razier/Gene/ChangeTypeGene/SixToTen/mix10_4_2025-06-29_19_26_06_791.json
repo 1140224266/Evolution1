@@ -1,0 +1,44 @@
+{
+  "type": "change",
+  "parts": "all",
+  "size": 10,
+  "change_type": [
+    "energy",
+    "suitable_temperature",
+    "combat_experience",
+    "defense"
+  ],
+  "sequence": [
+    "ALA",
+    "CYS",
+    "ILE",
+    "GLN",
+    "SER",
+    "ILE",
+    "GLU",
+    "GLN",
+    "SER",
+    "ILE"
+  ],
+  "values": {
+    "health": 0.0,
+    "attack": {
+      "temperature": 0.0,
+      "maxForce": 0.0,
+      "energy": 0.0,
+      "frequency": 0.0,
+      "contactArea": 0.0
+    },
+    "defense": {
+      "surfaceHardness": 11.611500000000001,
+      "thickness": 11.611500000000001,
+      "toughness": 11.611500000000001
+    },
+    "suitable_temperature": {
+      "MinTemperatureIncrease": 3.3459000000000003,
+      "MaxTemperatureIncrease": 3.3459000000000003
+    },
+    "energy": 6001.39,
+    "combat_experience": 5.862500000000001
+  }
+}

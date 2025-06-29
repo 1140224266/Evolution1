@@ -1,0 +1,37 @@
+{
+  "type": "change",
+  "parts": "all",
+  "size": 4,
+  "change_type": [
+    "attack",
+    "agility",
+    "energy"
+  ],
+  "sequence": [
+    "ALA",
+    "SER",
+    "SER",
+    "ALA"
+  ],
+  "values": {
+    "health": 0.0,
+    "attack": {
+      "temperature": 4.7076,
+      "maxForce": 2.3538,
+      "energy": 2.3538,
+      "frequency": 235.38,
+      "contactArea": 0.023538
+    },
+    "defense": {
+      "surfaceHardness": 0.0,
+      "thickness": 0.0,
+      "toughness": 0.0
+    },
+    "suitable_temperature": {
+      "MinTemperatureIncrease": 0.0,
+      "MaxTemperatureIncrease": 0.0
+    },
+    "agility": 178.71800000000002,
+    "energy": 611.84
+  }
+}

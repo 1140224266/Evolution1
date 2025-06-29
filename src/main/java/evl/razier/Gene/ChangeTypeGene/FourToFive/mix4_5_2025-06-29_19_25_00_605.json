@@ -1,0 +1,39 @@
+{
+  "type": "change",
+  "parts": "all",
+  "size": 4,
+  "change_type": [
+    "combat_experience",
+    "mental_power",
+    "health",
+    "defense",
+    "attack"
+  ],
+  "sequence": [
+    "PRO",
+    "ASN",
+    "GLU",
+    "ASP"
+  ],
+  "values": {
+    "health": 118.38,
+    "attack": {
+      "temperature": 9.7554,
+      "maxForce": 4.8777,
+      "energy": 4.8777,
+      "frequency": 487.77,
+      "contactArea": 0.048777
+    },
+    "defense": {
+      "surfaceHardness": 2.0872,
+      "thickness": 2.0872,
+      "toughness": 2.0872
+    },
+    "suitable_temperature": {
+      "MinTemperatureIncrease": 0.0,
+      "MaxTemperatureIncrease": 0.0
+    },
+    "combat_experience": 11.369,
+    "mental_power": 678.85
+  }
+}

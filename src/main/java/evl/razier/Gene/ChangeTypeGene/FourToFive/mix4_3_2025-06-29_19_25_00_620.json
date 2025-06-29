@@ -1,0 +1,37 @@
+{
+  "type": "change",
+  "parts": "all",
+  "size": 4,
+  "change_type": [
+    "metabolism",
+    "combat_experience",
+    "attack"
+  ],
+  "sequence": [
+    "ALA",
+    "ALA",
+    "TYR",
+    "GLY"
+  ],
+  "values": {
+    "health": 0.0,
+    "attack": {
+      "temperature": 0.451,
+      "maxForce": 0.2255,
+      "energy": 0.2255,
+      "frequency": 22.55,
+      "contactArea": 0.002255
+    },
+    "defense": {
+      "surfaceHardness": 0.0,
+      "thickness": 0.0,
+      "toughness": 0.0
+    },
+    "suitable_temperature": {
+      "MinTemperatureIncrease": 0.0,
+      "MaxTemperatureIncrease": 0.0
+    },
+    "metabolism": 640.4300000000001,
+    "combat_experience": 0.2899
+  }
+}

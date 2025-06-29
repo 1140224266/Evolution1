@@ -1,0 +1,38 @@
+{
+  "type": "change",
+  "parts": "all",
+  "size": 4,
+  "change_type": [
+    "defense",
+    "combat_experience",
+    "energy",
+    "health"
+  ],
+  "sequence": [
+    "GLN",
+    "ARG",
+    "HIS",
+    "HIS"
+  ],
+  "values": {
+    "health": 93.47,
+    "attack": {
+      "temperature": 0.0,
+      "maxForce": 0.0,
+      "energy": 0.0,
+      "frequency": 0.0,
+      "contactArea": 0.0
+    },
+    "defense": {
+      "surfaceHardness": 3.9573000000000005,
+      "thickness": 3.9573000000000005,
+      "toughness": 3.9573000000000005
+    },
+    "suitable_temperature": {
+      "MinTemperatureIncrease": 0.0,
+      "MaxTemperatureIncrease": 0.0
+    },
+    "combat_experience": 0.9067000000000001,
+    "energy": 193.42000000000002
+  }
+}

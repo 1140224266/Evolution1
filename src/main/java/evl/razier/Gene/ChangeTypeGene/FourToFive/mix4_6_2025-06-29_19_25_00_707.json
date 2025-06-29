@@ -1,0 +1,41 @@
+{
+  "type": "change",
+  "parts": "all",
+  "size": 4,
+  "change_type": [
+    "suitable_temperature",
+    "mental_power",
+    "combat_experience",
+    "attack",
+    "defense",
+    "energy"
+  ],
+  "sequence": [
+    "ARG",
+    "ALA",
+    "PHE",
+    "ILE"
+  ],
+  "values": {
+    "health": 0.0,
+    "attack": {
+      "temperature": 0.0334,
+      "maxForce": 0.0167,
+      "energy": 0.0167,
+      "frequency": 1.67,
+      "contactArea": 1.67E-4
+    },
+    "defense": {
+      "surfaceHardness": 0.0263,
+      "thickness": 0.0263,
+      "toughness": 0.0263
+    },
+    "suitable_temperature": {
+      "MinTemperatureIncrease": 3.35603,
+      "MaxTemperatureIncrease": 3.35603
+    },
+    "mental_power": 2.315,
+    "combat_experience": 0.33380000000000004,
+    "energy": 3.11
+  }
+}

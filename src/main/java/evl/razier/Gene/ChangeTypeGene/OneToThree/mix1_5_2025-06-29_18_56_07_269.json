@@ -1,0 +1,37 @@
+{
+  "type": "change",
+  "parts": "all",
+  "size": 1,
+  "change_type": [
+    "energy",
+    "defense",
+    "combat_experience",
+    "health",
+    "agility"
+  ],
+  "sequence": [
+    "TYR"
+  ],
+  "values": {
+    "health": 16.37,
+    "attack": {
+      "temperature": 0.0,
+      "maxForce": 0.0,
+      "energy": 0.0,
+      "frequency": 0.0,
+      "contactArea": 0.0
+    },
+    "defense": {
+      "surfaceHardness": 3.997,
+      "thickness": 3.997,
+      "toughness": 3.997
+    },
+    "suitable_temperature": {
+      "MinTemperatureIncrease": 0.0,
+      "MaxTemperatureIncrease": 0.0
+    },
+    "energy": 723.99,
+    "combat_experience": 0.0408,
+    "agility": 4.132
+  }
+}

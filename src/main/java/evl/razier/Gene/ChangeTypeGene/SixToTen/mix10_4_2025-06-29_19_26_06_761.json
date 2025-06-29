@@ -1,0 +1,43 @@
+{
+  "type": "change",
+  "parts": "all",
+  "size": 10,
+  "change_type": [
+    "attack",
+    "defense",
+    "health",
+    "combat_experience"
+  ],
+  "sequence": [
+    "LYS",
+    "ARG",
+    "SER",
+    "THR",
+    "MET",
+    "ILE",
+    "GLU",
+    "TYR",
+    "TYR",
+    "LYS"
+  ],
+  "values": {
+    "health": 297.29,
+    "attack": {
+      "temperature": 134.8776,
+      "maxForce": 67.4388,
+      "energy": 67.4388,
+      "frequency": 6743.88,
+      "contactArea": 0.6743880000000001
+    },
+    "defense": {
+      "surfaceHardness": 18.5032,
+      "thickness": 18.5032,
+      "toughness": 18.5032
+    },
+    "suitable_temperature": {
+      "MinTemperatureIncrease": 0.0,
+      "MaxTemperatureIncrease": 0.0
+    },
+    "combat_experience": 1.5715000000000001
+  }
+}

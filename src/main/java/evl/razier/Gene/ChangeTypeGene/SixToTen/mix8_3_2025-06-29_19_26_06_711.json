@@ -1,0 +1,39 @@
+{
+  "type": "change",
+  "parts": "all",
+  "size": 8,
+  "change_type": [
+    "suitable_temperature",
+    "defense",
+    "health"
+  ],
+  "sequence": [
+    "GLY",
+    "MET",
+    "ASP",
+    "HIS",
+    "PRO",
+    "TYR",
+    "ALA",
+    "PHE"
+  ],
+  "values": {
+    "health": 1373.51,
+    "attack": {
+      "temperature": 0.0,
+      "maxForce": 0.0,
+      "energy": 0.0,
+      "frequency": 0.0,
+      "contactArea": 0.0
+    },
+    "defense": {
+      "surfaceHardness": 16.142500000000002,
+      "thickness": 16.142500000000002,
+      "toughness": 16.142500000000002
+    },
+    "suitable_temperature": {
+      "MinTemperatureIncrease": 5.486820000000001,
+      "MaxTemperatureIncrease": 5.486820000000001
+    }
+  }
+}

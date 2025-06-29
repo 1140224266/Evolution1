@@ -1,0 +1,41 @@
+{
+  "type": "change",
+  "parts": "all",
+  "size": 5,
+  "change_type": [
+    "suitable_temperature",
+    "metabolism",
+    "defense",
+    "mental_power",
+    "agility"
+  ],
+  "sequence": [
+    "LEU",
+    "ALA",
+    "ARG",
+    "ALA",
+    "CYS"
+  ],
+  "values": {
+    "health": 0.0,
+    "attack": {
+      "temperature": 0.0,
+      "maxForce": 0.0,
+      "energy": 0.0,
+      "frequency": 0.0,
+      "contactArea": 0.0
+    },
+    "defense": {
+      "surfaceHardness": 0.5846,
+      "thickness": 0.5846,
+      "toughness": 0.5846
+    },
+    "suitable_temperature": {
+      "MinTemperatureIncrease": 0.25806,
+      "MaxTemperatureIncrease": 0.25806
+    },
+    "metabolism": 463.5,
+    "mental_power": 0.325,
+    "agility": 0.179
+  }
+}

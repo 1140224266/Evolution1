@@ -1,0 +1,43 @@
+{
+  "type": "change",
+  "parts": "all",
+  "size": 7,
+  "change_type": [
+    "energy",
+    "attack",
+    "metabolism",
+    "health",
+    "agility"
+  ],
+  "sequence": [
+    "VAL",
+    "ILE",
+    "ALA",
+    "ASP",
+    "PRO",
+    "LYS",
+    "ALA"
+  ],
+  "values": {
+    "health": 80.04,
+    "attack": {
+      "temperature": 32.3832,
+      "maxForce": 16.1916,
+      "energy": 16.1916,
+      "frequency": 1619.16,
+      "contactArea": 0.161916
+    },
+    "defense": {
+      "surfaceHardness": 0.0,
+      "thickness": 0.0,
+      "toughness": 0.0
+    },
+    "suitable_temperature": {
+      "MinTemperatureIncrease": 0.0,
+      "MaxTemperatureIncrease": 0.0
+    },
+    "energy": 2513.52,
+    "metabolism": 354.475,
+    "agility": 15.965
+  }
+}

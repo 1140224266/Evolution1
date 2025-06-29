@@ -1,0 +1,41 @@
+{
+  "type": "change",
+  "parts": "all",
+  "size": 5,
+  "change_type": [
+    "mental_power",
+    "attack",
+    "agility",
+    "health",
+    "metabolism"
+  ],
+  "sequence": [
+    "ASP",
+    "TYR",
+    "PRO",
+    "VAL",
+    "GLU"
+  ],
+  "values": {
+    "health": 405.05,
+    "attack": {
+      "temperature": 7.9362,
+      "maxForce": 3.9681,
+      "energy": 3.9681,
+      "frequency": 396.81,
+      "contactArea": 0.039681
+    },
+    "defense": {
+      "surfaceHardness": 0.0,
+      "thickness": 0.0,
+      "toughness": 0.0
+    },
+    "suitable_temperature": {
+      "MinTemperatureIncrease": 0.0,
+      "MaxTemperatureIncrease": 0.0
+    },
+    "mental_power": 1026.945,
+    "agility": 120.72,
+    "metabolism": 19.42
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "type": "change",
+  "parts": "all",
+  "size": 7,
+  "change_type": [
+    "defense",
+    "attack",
+    "metabolism",
+    "agility",
+    "energy"
+  ],
+  "sequence": [
+    "MET",
+    "TRP",
+    "PRO",
+    "TRP",
+    "ARG",
+    "ILE",
+    "CYS"
+  ],
+  "values": {
+    "health": 0.0,
+    "attack": {
+      "temperature": 1.2140000000000002,
+      "maxForce": 0.6070000000000001,
+      "energy": 0.6070000000000001,
+      "frequency": 60.7,
+      "contactArea": 0.006070000000000001
+    },
+    "defense": {
+      "surfaceHardness": 23.152600000000003,
+      "thickness": 23.152600000000003,
+      "toughness": 23.152600000000003
+    },
+    "suitable_temperature": {
+      "MinTemperatureIncrease": 0.0,
+      "MaxTemperatureIncrease": 0.0
+    },
+    "metabolism": 40.88,
+    "agility": 76.193,
+    "energy": 1130.65
+  }
+}

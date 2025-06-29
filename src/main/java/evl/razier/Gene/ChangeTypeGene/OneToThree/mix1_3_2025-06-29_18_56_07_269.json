@@ -1,0 +1,33 @@
+{
+  "type": "change",
+  "parts": "all",
+  "size": 1,
+  "change_type": [
+    "attack",
+    "energy",
+    "health"
+  ],
+  "sequence": [
+    "GLU"
+  ],
+  "values": {
+    "health": 57.02,
+    "attack": {
+      "temperature": 8.538,
+      "maxForce": 4.269,
+      "energy": 4.269,
+      "frequency": 426.90000000000003,
+      "contactArea": 0.042690000000000006
+    },
+    "defense": {
+      "surfaceHardness": 0.0,
+      "thickness": 0.0,
+      "toughness": 0.0
+    },
+    "suitable_temperature": {
+      "MinTemperatureIncrease": 0.0,
+      "MaxTemperatureIncrease": 0.0
+    },
+    "energy": 48.4
+  }
+}

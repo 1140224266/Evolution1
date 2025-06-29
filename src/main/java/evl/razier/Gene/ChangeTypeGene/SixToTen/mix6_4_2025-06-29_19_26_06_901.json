@@ -1,0 +1,41 @@
+{
+  "type": "change",
+  "parts": "all",
+  "size": 6,
+  "change_type": [
+    "health",
+    "agility",
+    "mental_power",
+    "metabolism"
+  ],
+  "sequence": [
+    "GLN",
+    "CYS",
+    "ARG",
+    "LYS",
+    "TRP",
+    "ASN"
+  ],
+  "values": {
+    "health": 2432.79,
+    "attack": {
+      "temperature": 0.0,
+      "maxForce": 0.0,
+      "energy": 0.0,
+      "frequency": 0.0,
+      "contactArea": 0.0
+    },
+    "defense": {
+      "surfaceHardness": 0.0,
+      "thickness": 0.0,
+      "toughness": 0.0
+    },
+    "suitable_temperature": {
+      "MinTemperatureIncrease": 0.0,
+      "MaxTemperatureIncrease": 0.0
+    },
+    "agility": 12.097,
+    "mental_power": 241.415,
+    "metabolism": 598.265
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "type": "change",
+  "parts": "all",
+  "size": 4,
+  "change_type": [
+    "attack",
+    "suitable_temperature",
+    "agility"
+  ],
+  "sequence": [
+    "MET",
+    "MET",
+    "ALA",
+    "ASP"
+  ],
+  "values": {
+    "health": 0.0,
+    "attack": {
+      "temperature": 5.3991999999999996,
+      "maxForce": 2.6995999999999998,
+      "energy": 2.6995999999999998,
+      "frequency": 269.96,
+      "contactArea": 0.026996
+    },
+    "defense": {
+      "surfaceHardness": 0.0,
+      "thickness": 0.0,
+      "toughness": 0.0
+    },
+    "suitable_temperature": {
+      "MinTemperatureIncrease": 0.02485,
+      "MaxTemperatureIncrease": 0.02485
+    },
+    "agility": 5.311
+  }
+}
